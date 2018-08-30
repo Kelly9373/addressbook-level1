@@ -91,6 +91,10 @@
   delete 1
   list
 
+  # listing indexes get updated on next request
+  delete 1
+  list
+
 ##########################################################
 # test clear command
 ##########################################################
